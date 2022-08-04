@@ -1,0 +1,5 @@
+keyo[BACKSPACE]log[ENTER]
+google[ENTER]
+whatsapp[ENTER]
+youtube  facebook instagram twite[BACKSPACE]ter[ENTER]
+[ALT][TAB]
